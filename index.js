@@ -1,5 +1,5 @@
-import { registerRootComponent } from "expo";
+import { registerRootComponent } from 'expo';
 
-import App from './src/index.js';
+import App from './src/index.jsx';
 
 registerRootComponent(App);
